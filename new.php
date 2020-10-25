@@ -41,7 +41,7 @@
   </div>
 </nav> 
 <?php
-require_once('all/includes/settings.local.inc.php'); 
+require_once('settings.local.inc.php'); 
     $link = mysqli_connect(DB_SERVER, DB_USER, DB_PASS, DB_NAME); 
 
     if (!$link) {
