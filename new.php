@@ -368,13 +368,9 @@ if (isset($_POST['submit'])){
             </div>
             <br />
         </div>
-        <div class="row">
-            <div class="col-md-12 justify-content-center align-items-center">
                     <div class="text-center">
                     <input class="btn btn-success btn-lg" id="submit" type="submit" name="submit" value="Save"> <a class="btn btn-warning btn-lg" href="#" id="btnToTop"><i class="fa fa-arrow-up"></i> Top</a>
                     </div>
-            </div>
-        </div>
     </div>
 </form>
 
