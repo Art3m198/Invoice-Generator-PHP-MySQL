@@ -1,0 +1,82 @@
+.frame{
+    color: #000000;
+    font-size: 30px;
+    text-decoration: none;
+    width: 100%;
+    border: 2px solid #e74b72;
+    background-color: #ffe4b3;
+    padding: 10px 10px;
+    margin-bottom: 20px;
+  }
+
+  .order-card {
+    color: #fff;
+   }
+   .bg-c-green {
+    background: linear-gradient(45deg,#2ed8b6,#59e0c5);
+   }
+   .bg-c-yellow {
+    background: linear-gradient(45deg,#FFB64D,#ffcb80);
+   }
+   .bg-c-pink {
+    background: linear-gradient(45deg,#FF5370,#ff869a);
+   }
+   .bg-c-blue {
+    background: linear-gradient(45deg,#4099ff,#73b4ff);
+   }
+   .bg-c-today {
+    background: #31B3D0;
+    background: -webkit-linear-gradient(top right, #31B3D0, #F33A9F);
+    background: -moz-linear-gradient(top right, #31B3D0, #F33A9F);
+    background: linear-gradient(to bottom left, #31B3D0, #F33A9F);
+   }
+   .card {
+    border-radius: 5px;
+    -webkit-box-shadow: 0 1px 2.94px 0.06px rgba(4,26,55,0.16);
+    box-shadow: 0 1px 2.94px 0.06px rgba(4,26,55,0.16);
+    border: none;
+    -webkit-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+   }
+
+   .card .card-block {
+     color:#fff;
+    padding: 25px;
+   }
+   .order-card i {
+    font-size: 26px;
+   }
+   .card2 .card-block {
+    padding: -25px;
+   }
+   .order-card2 i {
+    font-size: 26px;
+   }
+   .f-left {
+    float: left;
+   }
+   .f-right {
+    float: right;
+   }
+   
+ @media (max-width: 1300px) {
+  .card {
+  margin: 10px;
+  min-height: auto;
+  justify-content: center;
+  }
+ }
+ @media (max-width: 767px){
+  .card {
+  min-height: auto;
+  justify-content: center;
+  } 
+ }
+ .container1{
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%; 
+    left: 50%;
+    justify-content: center; 
+    align-items: center;
+   }
