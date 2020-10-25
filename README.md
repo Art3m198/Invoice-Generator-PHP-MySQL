@@ -18,7 +18,7 @@ Invoice Generator App
 <img src="https://github.com/Art3m198/Invoice-Generator-PHP-MySQL/blob/main/images/2.PNG" width="50%" height="50%">  
 <img src="https://github.com/Art3m198/Invoice-Generator-PHP-MySQL/blob/main/images/3.PNG" width="50%" height="50%"> 
 
-### Invoices  
+### All invoices    
 <img src="https://github.com/Art3m198/Invoice-Generator-PHP-MySQL/blob/main/images/4.PNG" width="50%" height="50%">  
 
 ### Invoice    
